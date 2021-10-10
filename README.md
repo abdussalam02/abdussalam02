@@ -29,7 +29,7 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=abdusssalam02&show_icons=true&hide_border=false&theme=black" width="47%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=abdussalam02&show_icons=true&hide_border=false&theme=black" width="47%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdussalam02&theme=black" width="50%" >
 
