@@ -5,24 +5,23 @@
 
 <br>
 
- I am **Abdus Salam** and I am pursuing my Tech jorney in BCA at [IGNOU](https://igbou.ac.in/). <br><br>
+ I am **Abdus Salam** and I am pursuing my tech jorney in BCA at [IGNOU](https://igbou.ac.in/). <br><br>
  **Exploring amazing things in Tech**
 <br>
 <br>
 
 ## 👨‍💻 Languages and Tools
 <div align="center">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/css.png?raw=true" height="40">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/html.png?raw=true" height="40" >
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c.png?raw=true" height="40">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c++.png?raw=true" height="40" >
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/java.png?raw=true" height="40">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/python.png?raw=true" height="40">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/flutter.png?raw=true" height="40">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/android.png?raw=true" height="40">
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/git.png?raw=true" height="40" >
-<img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/vs.png?raw=true" height="40">
-
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/python.png?raw=true" height="40">
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/html.png?raw=true" height="40" >
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/css.png?raw=true" height="40">
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c.png?raw=true" height="40">
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/c++.png?raw=true" height="40" >
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/vs.png?raw=true" height="40">
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/git.png?raw=true" height="40" >
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/java.png?raw=true" height="40">
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/flutter.png?raw=true" height="40">
+ <img src="https://github.com/anaskhan28/anaskhan28/blob/main/Assest/android.png?raw=true" height="40">
 </div>
 <br>
 <br>
