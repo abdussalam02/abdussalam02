@@ -32,6 +32,8 @@
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdussalam02&theme=black" width="50%" >
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=abdussalam02)
+
 <br>
 
 ## 👨 Connect with Me On
