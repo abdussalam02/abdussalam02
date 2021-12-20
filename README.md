@@ -5,7 +5,7 @@
 
 <br>
 
- I am **Abdus Salam** and I am pursuing my tech jorney in BCA at [IGNOU](https://igbou.ac.in/). <br><br>
+ I am **Abdus Salam** currently pursuing my Bachelor's in Computer Application from [IGNOU](https://igbou.ac.in/). <br><br>
  **Exploring amazing things in Tech**
 <br>
 <br>
