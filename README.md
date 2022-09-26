@@ -48,7 +48,7 @@
 
  <p align="left">
 
-  <a href="https://twitter.com/_aladdin_02" target = "_blank"  alt="Twitter">
+  <a href="https://twitter.com/abdussalam_02" target = "_blank"  alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=LINK-DO-SEU-TWITTER"/></a>
  
  <a href="https://www.linkedin.com/in/abdus-salam-06278a217/" target = "_blank" alt="Linkedin">
